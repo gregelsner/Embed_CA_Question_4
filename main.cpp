@@ -1,9 +1,8 @@
-#include "mbed.h"
-
 //Mbed_CA_Question 4. Code Description initialise int variables a = 10, b = 20, c = 30
 //add values of a and b, store it in a new int variable d and print value of variable d
 //subtract variable c from d and store in new int variable e and print the value of variable e.
 
+#include "mbed.h"
 //Defining veribles of integer type
 int a = 10;
 int b = 20;
